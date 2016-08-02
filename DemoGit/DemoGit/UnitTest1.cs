@@ -17,5 +17,9 @@ namespace DemoGit
         {
 
         }
+        public int count()
+        {
+            return null;
+        }
     }
 }
