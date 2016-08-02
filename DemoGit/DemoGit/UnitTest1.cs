@@ -11,10 +11,11 @@ namespace DemoGit
         {
             Console.Write("Toi la ai");
             Console.WriteLine("What's the hell");
-            public static void Whatup()
+        
+        }
+        void TestNak()
         {
 
-        }
         }
     }
 }
