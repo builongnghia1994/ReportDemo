@@ -10,6 +10,7 @@ namespace DemoGit
         public void TestMethod1()
         {
             Console.Write("Toi la ai");
+            Console.WriteLine("What's the hell");
         }
     }
 }
