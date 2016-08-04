@@ -23,7 +23,7 @@ namespace DemoGit
         }
         public int count()
         {
-            return null;
+            return 1;
         }
     }
 }
