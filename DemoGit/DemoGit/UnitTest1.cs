@@ -17,6 +17,10 @@ namespace DemoGit
         {
 
         }
+         int ac()
+        {
+            return 1;
+        }
         public int count()
         {
             return null;
