@@ -25,5 +25,10 @@ namespace DemoGit
         {
             return 1;
         }
+
+        public void HoTen()
+        {
+            Console.WriteLine("Toi la Nghia");
+        }
     }
 }
